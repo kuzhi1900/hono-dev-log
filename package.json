@@ -1,0 +1,25 @@
+{
+  "name": "hono-dev-log",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuzhi1900/hono-dev-log"
+  },
+  "description": "A middleware for hono.js development, logging requests and responses to console",
+  "main": "index.js",
+  "keywords": [
+    "hono",
+    "log",
+    "dev",
+    "console",
+    "logger"
+  ],
+  "author": "Bert Huang",
+  "license": "MIT",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
